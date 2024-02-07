@@ -1,2 +1,14 @@
-**/.DS_Store
-__pycache__/
+*.DS_Store
+*__pycache__/
+.idea/
+*.tif
+*.tiff
+*.vsi
+*.ndpi
+*.png
+*.pdf
+*.jpg
+*.whl
+*.xlsx
+*.geojson
+*venv/
